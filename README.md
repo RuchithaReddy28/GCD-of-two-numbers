@@ -7,10 +7,17 @@ To write a program to find the GCD of two numbers using function.
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
-## Algorithm
+## Algorithm:
+## Step:
 1. Define a function.
+
+## Step:
 2. Get the two numbers from the user.
+
+## Step:
 3. Compare the two values, to find the smaller number.
+
+## Step:
 4. Use for() and if() loop to find the GCD of the two numbers.
 
 ## Program:
